@@ -31,7 +31,7 @@ bin/kafka-topics.sh --create --topic Weather --bootstrap-server localhost:9092
 ## 5. Start Producer
 You need a producer to send messages to Kafka. Run the command below to start a producer.
 ```
-bin/kafka-console-producer.sh --topic news --bootstrap-server localhost:9092
+bin/kafka-console-producer.sh --topic Weather --bootstrap-server localhost:9092
 ```
 Once the producer starts, and you get the ‘>’ prompt, type any text message and press enter. Or you can copy the text below and paste. The below text sends three messages to kafka.
 ```
