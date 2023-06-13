@@ -1,4 +1,4 @@
-# Learn Apache Kafka
+# Kafka Basic Shell
 ## 1. Download Kafka
 First download kafka and extract into folder
 ```
