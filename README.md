@@ -48,3 +48,5 @@ bin/kafka-console-consumer.sh --topic Weather --from-beginning --bootstrap-serve
 ```
 You should see all the messages you sent from the producer appear here.
 You can go back to the producer terminal and type some more messages, one message per line, and you will see them appear here.
+
+# Kafka Python Client
